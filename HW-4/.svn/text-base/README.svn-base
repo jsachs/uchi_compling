@@ -1,0 +1,21 @@
+Jacob Sachs
+HMM Week 2
+4 February 2013
+
+To get an output table, simply run the python script 'hmm.py'.
+The script is set to run on the first 1000 words of the Brown Corpus,
+stored in 'brown_1000.txt'.
+
+The script has been modified from HW4. It no longer outputs the ratios
+of state 1 to state 2, and instead carries out the Forward-Backward algorithm
+as described in the project description.
+
+The first output is the expected emission results with two states,
+and the second output is the expected emission with three states.
+
+Unfortunately, with the time alotted, I was not able to get the 3-state
+HMM functioning properly. For that matter, I'm not sure that the 2-state HMM
+functions properly either.
+
+For the 2-state, we're supposed to get vowels and consonants.
+For the 3-state, I'm unsure what the separation is supposed to be.

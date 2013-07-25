@@ -1,0 +1,14 @@
+Evaluation for Assignment 3-4 on HMM
+
+Comments;
+The discussion is not sufficient. You should have included some inferences about your output. Your closeness condition is alright but 50 iterations may not be sufficient to give you good convergence. The probabilities look alright to me.
+Evaluation:
+1. Code Runs: 4/4
+2. Convergence of probabilities: 2/3
+3. Soft Counts: 3/3
+4. Parameter estimation: 4/4
+5. 3 State: 1/3
+6. Overall structure: 2/3
+7. Total: 16/20
+
+Grader: Nikita Mishra

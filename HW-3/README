@@ -1,0 +1,8 @@
+Jacob Sachs
+HMM Week 1
+28 January 2013
+
+To get an output table, simply run the python script 'hmm.py'.
+The script is set to run on the first 1000 words of the Brown Corpus,
+stored in 'brown_1000.txt'.
+

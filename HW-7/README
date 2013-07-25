@@ -1,0 +1,10 @@
+Jacob Sachs
+CompLing
+Anagrams
+
+Sample output is provided in out.txt.  This is the sorted
+list of anagrams detailed in the assignment.
+
+To run the code, type 'python anagram.py'.  The output printed
+to the console is a simple test of the overlap score.
+

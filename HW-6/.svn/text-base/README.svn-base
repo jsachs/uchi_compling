@@ -1,0 +1,11 @@
+Jacob Sachs
+Computational Linguistics
+String-Edit Distance
+
+Sample output is provided in 'test1.txt' and 'test2.txt' for the
+requested edits.  This code can be run with 'python se_dist.py'.
+
+The initial string is on the first line, under 'init'.
+Successive lines show the operation used, its cost,
+and the total string edit cost.  The last line shows the finished
+string, and the total cost on this line is the final cost.

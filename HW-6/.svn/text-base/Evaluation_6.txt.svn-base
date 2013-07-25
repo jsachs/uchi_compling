@@ -1,0 +1,14 @@
+Evaluation for String edit distance
+
+Your scores seem slightly misplaced. The first value is 7.0 and the
+second one should be 3.1 for the score values that was given. Are you
+sure you are implementing the DP correctly?
+
+ 1. Code runs: 4/4 
+2. String edit distance between “thenameofthegame” and “theresmyname”: 1.5/2 
+3. Best alignment between the Swahili words “ninakushukuru” and
+“unamshukuru”.: 2.5/3 
+4. Overall: 1/1
+
+Total: 9/10
+Grader: Ankan Saha

@@ -1,0 +1,6 @@
+     op |  cost |   tot | string              
+--------------------------------------------------------------------------------
+   init |     0 |     0 | ninakushukuru       
+ change |   0.5 |   0.5 | nunakushukuru       
+ change |   0.6 |   1.1 | nunamushukuru       
+ delete |   1.0 |   2.1 | nunamshukuru        

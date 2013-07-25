@@ -1,0 +1,16 @@
+     op |  cost |   tot | string              
+--------------------------------------------------------------------------------
+   init |     0 |     0 | thenameofthegame    
+ change |   0.6 |   0.6 | therameofthegame    
+ change |   0.5 |   1.1 | theremeofthegame    
+ change |   0.6 |   1.7 | thereseofthegame    
+ delete |   1.0 |   2.7 | theresofthegame     
+ delete |   1.0 |   3.7 | theresfthegame      
+ change |   0.6 |   4.3 | theresmthegame      
+ change |   0.6 |   4.9 | theresmyhegame      
+ change |   0.6 |   5.5 | theresmynegame      
+ change |   0.5 |   6.0 | theresmynagame      
+ change |   0.6 |   6.6 | theresmynamame      
+ change |   0.5 |   7.1 | theresmynameme      
+ delete |   1.0 |   8.1 | theresmynamee       
+ delete |   1.0 |   9.1 | theresmyname        

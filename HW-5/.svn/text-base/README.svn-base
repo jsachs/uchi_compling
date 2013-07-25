@@ -1,0 +1,20 @@
+Jacob Sachs
+HW5: Compounds
+Computational Linguistics
+
+The code for the algorithm is in 'comp_prob.py'.  To execute it, simply run it with python.
+There are no arguments.  The corpus and gold standard are coded into the algorithm.
+
+The corpus being used is 'browncorpus_simplewords.txt'.
+The gold standard being used it 'final_gold_standard.txt'.
+
+An interesting thing detected during testing is that PMI doesn't actually discover
+any significant number of words that the lexicon and hyphen method missed.  This led me
+to attempt to refine the other parts of the algorithm first.
+
+Sample output is provided, under 'output.txt'.  It contains the precision and recall
+of the algorithm, as well as a list of the compounds that were correctly identified from
+the gold standard.
+
+Note that my gold standard has a few modifications for correctness, though it is still far
+from perfect.

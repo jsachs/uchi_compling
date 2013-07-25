@@ -1,0 +1,17 @@
+Evaluation for assignment on anagrams
+Comments: Good job!
+
+1. Code Runs Efficiently 4/4
+
+Definitions
+2. Size  1/1
+3. Length 1/1
+4. Overlap 2/2
+
+5. Structure of the Code 2/2
+
+Bonus: 
+6. Explanation for optional part(Surprise factor) 0/2
+
+Total: 10/10 + 0/2
+Grader:Nikita Mishra
